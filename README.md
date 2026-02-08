@@ -5,7 +5,7 @@ These files is a summary of all what I learned in python.
 Starting with encode, this is something I heard in shool, about cipher method that was used years ago.
 Cipher method is called "Cezar Cipher" or "Shift Cipher", meaning that each letter is assigned to another letter located a specified number of places later in the alphabet. I wanted to recreate this method in code.
 
-## Messages
+## [Messages](https://github.com/Az0xV/Python/tree/main/Messages)
 Messages contains 2 scripts that are connected by socket library witch uses internet connection and open ports to communicate with each other. This is how to make it work in 5 steps:
 1. Make sure you have python and socket library installed
 2. Open first messagesServer.py in console

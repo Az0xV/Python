@@ -36,13 +36,13 @@ flappy.py - This is classical game, flappy bird remade in python.
 
 plains.py - There all squares are green at start, but when you click with right button, it turns red, if with left - turns blue. Red cant stand with too much blue squares.
 
+snake.py - This is classical game, snake remade in python.
+
 Tabela.py - It creates random path with looks like stain. Click space to repeat.
 
 TabelaTick.py - Exacly like Tabela.py, but the creation process is slower, and shows every square being place in real-time.
 
 tic-tac-toe.py - name tells all
-
-[...]
 
 ## SQL
 The script connects to local database, and can execute commands on it, showing all data. This is the best script to know how to start with databases in python.

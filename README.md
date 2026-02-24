@@ -34,6 +34,14 @@ block.py - It works like Timberman game, but with no graphics.
 
 flappy.py - This is classical game, flappy bird remade in python.
 
+plains.py - There all squares are green at start, but when you click with right button, it turns red, if with left - turns blue. Red cant stand with too much blue squares.
+
+Tabela.py - It creates random path with looks like stain. Click space to repeat.
+
+TabelaTick.py - Exacly like Tabela.py, but the creation process is slower, and shows every square being place in real-time.
+
+tic-tac-toe.py - name tells all
+
 [...]
 
 ## SQL

@@ -27,5 +27,10 @@ Open Third and Fourth messagesClient.py in console, connect them to the same net
 ## Network
 GetWifiPasswords.py creates a file named passwords.txt, which contains data about SSID appropriately matched to password, stored on computer.
 
-## ...
-[CDN]
+## Pygame
+flappy.py - This is flappy bird game remade in python by me.
+
+[...]
+
+## SQL
+The script connects to local database, and can execute commands on it, showing all data. This is the best script to know how to start with databases in python.

@@ -1,13 +1,15 @@
-﻿# Example use:
-# file = FileService("name.txt") # This creates a new object of FileService class
-# file.writeFile("Example file data to write") # This creates a file and writes the data into it
-# file.appendFile("/nExample file data to append") # This method appends to already existing file (with break line at the beginning)
-# fileData = file.readFile() # This function will read the file, and save it in the fileData variable.
-# print(fileData) # output:
+﻿"""
+Example use:
+file = FileService("name.txt") # This creates a new object of FileService class
+file.writeFile("Example file data to write") # This creates a file and writes the data into it
+file.appendFile("/nExample file data to append") # This method appends to already existing file (with break line at the beginning)
+fileData = file.readFile() # This function will read the file, and save it in the fileData variable.
+print(fileData) # output:
 # Example file data to write
 # Example file data to append
 
-# The example above shows what this tool can do.
+The example above shows what this tool can do.
+"""
 
 class FileService:
     def __init__(self, fileName):

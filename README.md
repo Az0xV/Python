@@ -28,7 +28,11 @@ Open Third and Fourth messagesClient.py in console, connect them to the same net
 GetWifiPasswords.py creates a file named passwords.txt, which contains data about SSID appropriately matched to password, stored on computer.
 
 ## Pygame
-flappy.py - This is flappy bird game remade in python by me.
+These are my python files with Pygame library. I remade some games to learn how it works.
+
+block.py - It works like Timberman game, but with no graphics.
+
+flappy.py - This is classical game, flappy bird remade in python.
 
 [...]
 

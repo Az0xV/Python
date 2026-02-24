@@ -25,4 +25,7 @@ Now these scripts can talk to each other.
 Open Third and Fourth messagesClient.py in console, connect them to the same network and test it as you want.
 
 ## Network
+GetWifiPasswords.py creates a file named passwords.txt, which contains data about SSID appropriately matched to password, stored on computer.
+
+## ...
 [CDN]

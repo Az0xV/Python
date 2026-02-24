@@ -2,9 +2,11 @@
 These files is a summary of all what I learned in python.
 
 ## Common
-This folder contains tools for later use:
+This folder contains tools for later use.
+More details can be found in the file comments.
+Short description:
 1. FileService - includes one class named FileService, that operates on files, with methods allowing to easly edit any file.
-2. TableService
+2. TableFormat - includes two classes named TableService and TableColumn. This tool is used for show data in table format.
 
 ## Encode
 Starting with encode, this is something I heard in shool, about cipher method that was used years ago.

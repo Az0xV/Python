@@ -1,6 +1,11 @@
 # About
 These files is a summary of all what I learned in python.
 
+## Common
+This folder contains tools for later use:
+1. FileService - includes one class named FileService, that operates on files, with methods allowing to easly edit any file.
+2. TableService
+
 ## Encode
 Starting with encode, this is something I heard in shool, about cipher method that was used years ago.
 Cipher method is called "Cezar Cipher" or "Shift Cipher", meaning that each letter is assigned to another letter located a specified number of places later in the alphabet. I wanted to recreate this method in code.

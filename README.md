@@ -1,5 +1,5 @@
 # About
-These files is a summary of all what I learned in python.
+These files is a summary of all what I learned in python. It isn't the cleanest code I could do, becouse some of them are old.
 
 ## Common
 This folder contains tools for later use.
